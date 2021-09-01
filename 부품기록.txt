@@ -1,0 +1,8 @@
+로봇 아두이노 : Arduino UNO
+로봇 OLED : 1.3" OLED SH1106
+
+소녀 아두이노 : Arduino NANO
+소녀 LED : 5mm superflexLED
+소녀 센서 : (DFRovot사) gravity magnetic sensor (3cm까지 탐지 가능)
+소녀 배터리 : 리튬 폴리머 500mA , 충전모듈 납땜.
+소녀 스위치 : 9mm 락킹스위치
