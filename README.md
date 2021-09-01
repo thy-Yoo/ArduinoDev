@@ -9,6 +9,7 @@
 <img src = "imgs/inter03.PNG" width="100%"><br/>
 <img src = "imgs/inter04.PNG" width="100%"><br/>
 <img src = "imgs/inter05.PNG" width="100%"><br/>
-<img src = "imgs/inter06.PNG" width="100%"><br/><br/><br/>
+<img src = "imgs/inter06.PNG" width="100%"><br/>
+<img src = "imgs/robot_in_desert.png" width="45%"><br/><br/><br/><br/>
 <img src = "imgs/inter07.PNG" width="100%">
 </div>
